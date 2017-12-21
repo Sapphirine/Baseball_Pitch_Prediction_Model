@@ -10,18 +10,15 @@
 ## Datsets Required (before running code):
   
    1. Sportradar 2016 MLB Data via Google BigQuery
-
-        source: https://cloud.google.com/bigquery/public-data/baseball
+        - source: https://cloud.google.com/bigquery/public-data/baseball
                 - export "games_wide" and "games_post_wide" tables to preferred storage application (e.g. Google Cloud Platform Storage)
                 - save data as 2 CSV files on local machine
                 - combine CSV files using 'merge' command in terminal 
 
    2. Baseball Reference - 3 tables
-        
-        source: https://www.baseball-reference.com/leagues/MLB/2016-standard-batting.shtml
+        - source: https://www.baseball-reference.com/leagues/MLB/2016-standard-batting.shtml
                 - use the 'Get table as CSV' function to save the "Team Standard Batting" and "Player Standard Batting" tables to your local machine
-
-        source: https://www.baseball-reference.com/leagues/MLB/2016-pitches-pitching.shtml
+        - source: https://www.baseball-reference.com/leagues/MLB/2016-pitches-pitching.shtml
                 - use the 'Get tableas CSV' function to save the "Player Pitching Pitches" table to your local machine
 
 ## Languages / Tools / Frameworks / Software Installation Required:
