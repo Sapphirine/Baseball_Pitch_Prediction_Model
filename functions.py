@@ -1,4 +1,4 @@
-#Title: Pitch Prediction
+#Title: Baseball Pitch Prediction Model
 #Author: Matthew Spitz
 #Date: 12/21/17
 

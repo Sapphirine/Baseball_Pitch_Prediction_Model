@@ -4,8 +4,8 @@
 ## Files in Repo:
    
    1. functions.py
-   2. main_pre-processing.py
-   3. main_model.py
+   2. main_mode.py
+   3. main_pre-processing.py
 
 ## Datsets Required (before running code):
   
@@ -30,3 +30,4 @@
 
 ## How to use files: https://www.youtube.com/watch?v=egHaDoKrg8c
 
+   1. Make sure to change path and file names in main functions to match the names of data files saved to your local machine
