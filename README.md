@@ -4,7 +4,7 @@
 ## Files in Repo:
    
    1. functions.py
-   2. main_mode.py
+   2. main_model.py
    3. main_pre-processing.py
 
 ## Datsets Required (before running code):
@@ -19,7 +19,7 @@
         - source: https://www.baseball-reference.com/leagues/MLB/2016-standard-batting.shtml
         1. use the 'Get table as CSV' function to save the "Team Standard Batting" and "Player Standard Batting" tables to your local machine<br><br> 
         - source: https://www.baseball-reference.com/leagues/MLB/2016-pitches-pitching.shtml
-        1. use the 'Get tableas CSV' function to save the "Player Pitching Pitches" table to your local machine
+        1. use the 'Get table as CSV' function to save the "Player Pitching Pitches" table to your local machine
 
 ## Languages / Tools / Frameworks / Software Installation Required:
    
@@ -31,3 +31,4 @@
 ## How to use files: https://www.youtube.com/watch?v=egHaDoKrg8c
 
    1. Make sure to change path and file names in main functions to match the names of data files saved to your local machine
+   2. Click URL above and follow tutorial
