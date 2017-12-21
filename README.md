@@ -18,7 +18,7 @@
    2. Baseball Reference - 3 tables
         - source: https://www.baseball-reference.com/leagues/MLB/2016-standard-batting.shtml
         1. use the 'Get table as CSV' function to save the "Team Standard Batting" and "Player Standard Batting" tables to your local machine
-        
+        <br> 
         - source: https://www.baseball-reference.com/leagues/MLB/2016-pitches-pitching.shtml
         1. use the 'Get tableas CSV' function to save the "Player Pitching Pitches" table to your local machine
 
